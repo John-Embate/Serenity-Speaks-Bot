@@ -32,7 +32,17 @@ To use Llama3 locally:
 1. Download Ollama from [this link](https://ollama.com/download) and run the executable file 📦.
 2. Open your terminal and run the following commands to install and serve the Llama3 model:
 
-   ```bash
-   ollama run llama3
-   ollama serve
-  ```
+```bash
+ollama run llama3
+ollama serve
+```
+
+Now, you are all set to chat with your chatbot using the purple chat icon on your local machine 💜.
+
+## Using the Bot 🗨️
+Once everything is set up, you can start interacting with Serenity Speaks Bot by using the chat interface in Flowise. This setup ensures that all interactions are secure and private, with the bot's responses powered by the locally hosted Llama3 model.
+
+## Support 🛠️
+If you encounter any issues or have questions about the setup, please open an issue in this repository. We are here to help!
+
+Thank you for supporting Serenity Speaks Bot! 🌟
